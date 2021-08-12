@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Furysoft.Version.Tests
+﻿namespace Furysoft.Version.Tests
 {
     public sealed class Class1
     {
